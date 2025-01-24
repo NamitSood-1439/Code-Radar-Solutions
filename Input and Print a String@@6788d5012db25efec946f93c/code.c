@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
-    string a;
-    scanf("%s",&a);
-    printf("%s", a);
+    char str[100] ;
+    scanf("%s",&str);
+    printf("%s", str);
     return 0;
 }
