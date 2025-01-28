@@ -2,6 +2,6 @@
 int main() {
     int a,b;
     scanf("%d %d");
-    a<b?printf("False"):printf("True");
+    a<b?printf("True"):printf("Flase");
     return 0;
 }
