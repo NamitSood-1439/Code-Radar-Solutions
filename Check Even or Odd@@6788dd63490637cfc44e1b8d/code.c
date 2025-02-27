@@ -6,5 +6,5 @@ if (a%2==0){
     pritnf("Even");
 }
 else
-    printf("Odd")
+    printf("Odd");
 }
